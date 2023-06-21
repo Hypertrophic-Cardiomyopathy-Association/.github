@@ -1,4 +1,4 @@
-<img src="../hcma-logo-1.png" style="width:100%;">
+<img src="./hcma-logo-1.png" style="width:100%;">
 
 ## Mission
 
