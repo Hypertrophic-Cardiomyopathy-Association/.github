@@ -24,6 +24,6 @@ To be the pre-eminent organization improving the lives of those with HCM, preven
 
 <li>Generate appropriate funding for a sustainable organization and ongoing patient and physician engagement.</li>
 </ul>
-The HCMA was founded in 1996 as a 501c3 nonprofit organization. We provide support, advocacy, and education to patients, families, the medical community, and the public about hypertrophic cardiomyopathy while supporting research and fostering the development of treatments.
+The HCMA was founded in 1996 as a 501(c)(3) nonprofit organization. We provide support, advocacy, and education to patients, families, the medical community, and the public about hypertrophic cardiomyopathy while supporting research and fostering the development of treatments.
 <br><br>
 We support the creation of high volume Center of Excellence care models to ensure all needs of the HCM patient community are met at the highest possible level. We believe in improving global awareness of the risks of this genetic heart disease and ensuring disease understanding, its complete natural history, and treatments are improved until the ultimate eradication of the disease itself.
